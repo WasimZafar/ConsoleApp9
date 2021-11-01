@@ -11,6 +11,7 @@ namespace ConsoleApp9
             Console.WriteLine("from github");
             Console.WriteLine("hi");
             Console.WriteLine("from vs");
+            Console.WriteLine("from vs  2");
         }
     }
 }
