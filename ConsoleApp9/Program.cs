@@ -15,6 +15,7 @@ namespace ConsoleApp9
             
             Console.WriteLine("from vs  2");
             Console.WriteLine("new branch");
+            Console.WriteLine("branch2");
         }
     }
 }
